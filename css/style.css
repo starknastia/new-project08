@@ -1,0 +1,10 @@
+.mynav {
+    height: 100px;
+}
+.mynav img {
+    width: 80px;
+    margin: 10px;
+}
+.mynav a {
+    margin-top: 10px;
+}
